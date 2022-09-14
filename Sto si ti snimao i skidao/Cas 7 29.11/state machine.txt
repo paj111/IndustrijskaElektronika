@@ -1,0 +1,2 @@
+na ispitu spada uglavnom: funkcisjki blok, masina stanja i struktuirani tekst diagram
+napravis prvo algoritam kao na slici i onda samo lagano radis i pratis to ides sa ta tri stanja: stanje uslova, stanje prelaza i stanje izvrsenja
